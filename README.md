@@ -1,2 +1,2 @@
 # wp-brad
-bootsrap to wordpress - test 
+bootstrap to wordpress - test 
